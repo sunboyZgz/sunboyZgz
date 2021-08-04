@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [zfile](https://github.com/sunboyZgz/ZFile-front)
 
-- 🌱 I’m currently learning **React, Vue, Ts, Vite**
+- 🌱 I’m currently learning **React, Vue, Ts, Vite**,and now I'm also start to learn **java**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunboyZgz/ZFile-front](https://github.com/sunboyZgz/ZFile-front)
 
