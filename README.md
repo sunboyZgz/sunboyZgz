@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm sunboyZgz</h1>
 <h3 align="center">a poor student</h3>
 
-- 🔭 I’m currently working on [zfile](https://github.com/sunboyZgz/ZFile-front)
 
 - 🌱 I’m currently learning **React, Vue, Ts, Vite**,and now I'm also start to learn **java**.
 
