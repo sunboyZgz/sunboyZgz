@@ -3,7 +3,7 @@
 <h3 align="center">a poor student</h3>
 
 
-- 🌱 I’m currently learning **React, Vue, Ts, Vite**,and now I'm also start to learn **java**.
+- 🌱 I’m currently learning [how to write a core of system](https://github.com/rcore-os/rCore-Tutorial-v3).
 
 - 👨‍💻 All of my projects are available at [https://github.com/sunboyZgz/ZFile-front](https://github.com/sunboyZgz/ZFile-front)
 
