@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning [how to write a core of system](https://github.com/rcore-os/rCore-Tutorial-v3).
 
-- 👨‍💻 All of my projects are available at [https://github.com/sunboyZgz/ZFile-front](https://github.com/sunboyZgz/ZFile-front)
-
 - 📝 I regularly write articles on [https://sunboyzgz.github.io/](https://sunboyzgz.github.io/)
 
 - 💬 Ask me about **easy vue 、 js**
