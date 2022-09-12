@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm sunboyZgz</h1>
 <h3 align="center">a poor student</h3>
 
-
+- target: https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/CS162/
 - 🌱 I’m currently learning [how to write a core of system](https://github.com/rcore-os/rCore-Tutorial-v3).
 
 - 📝 I regularly write articles on [https://sunboyzgz.github.io/](https://sunboyzgz.github.io/)
